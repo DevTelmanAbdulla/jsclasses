@@ -1,0 +1,10 @@
+link
+https://regex101.com/
+
+^characters$
+^[a-z]$ -> a character from a to z allowed only
+^[a-zA-Z]$-> a character from a(A) to z(Z) allowed only
+^[a-z]{5-10}$ min 5 max 10 characters including from a to z allowed to be written 
+^[a-zA-Z]{5-10}$ min 5 max 10 characters including from a(A) to z(Z) allowed to be written 
+^[a-zA-Z0-9]{5-10}$ min 5 max 10 characters including from a(A) to z(Z) as alphabe and from 0 to 9 as numeric allowed to be written 
+^.{5-10}$ min 5 max 10 all characters are allowed to be written 
