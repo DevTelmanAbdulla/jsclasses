@@ -1,0 +1,4 @@
+https://jsonplaceholder.typicode.com/
+https://jsonplaceholder.typicode.com/todos/1   (network->header daxil olub get methodunu goreceksen)
+https://www.w3schools.com/xml/xml_http.asp
+https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/readyState
